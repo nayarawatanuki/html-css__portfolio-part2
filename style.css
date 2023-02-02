@@ -1,9 +1,68 @@
-body {
-    background-color: black;
-    color: #F6F6F6;
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
 }
 
-.title__highlight {
+body {
+    background-color: black;
+    box-sizing: border-box;
+    color: #F6F6F6;
+    height: 100vh;
+}
+
+.presentation,
+.presentation-info__links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.presentation {
+    align-items: center;
+    margin: 10% 15%;
+}
+
+.presentation__info {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 615px;
+}
+
+.presentation-info__title {
+    font-family: 'Krona One', sans-serif;
+    font-size: 36px;
+}
+
+.presentation-info__title--highlight {
     color: #22D4FD;
     font-weight: bold;
+}
+
+.presentation-info__text, 
+.presentation-info-links__button {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.presentation-info__text,
+.presentation-info-links__button {
+    font-size: 24px;
+}
+
+.presentation-info-links__button {
+    background-color: #22D4FD;
+    border-radius: 16px;
+    color: #000;
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-align: center;
+    text-decoration: none;
+    width: 280px;
+}
+
+.presentation__img {
+    height: 550px;
+    width: 488px;
 }
