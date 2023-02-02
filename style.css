@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: #F6F6F6;
+}
+
+.title__highlight {
+    color: #22D4FD;
+    font-weight: bold;
+}
