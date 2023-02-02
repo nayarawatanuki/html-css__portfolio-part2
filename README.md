@@ -17,7 +17,7 @@
 ## :pencil: Descrição do Projeto
 O projeto **[Portfolio - parte 2](https://nayarawatanuki.github.io/html-css__portfolio-part2/)**, é uma proposta de página web para apresentação comercial.
 
-</br>Desenvolvido para o curso de **HTML E CSS: CLASSES, POSICIONAMENTO E FLEXBOX** da platforma [Alura](https://www.alura.com.br/).
+</br>Desenvolvido para o curso de **HTML E CSS: CLASSES, POSICIONAMENTO E FLEXBOX** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
