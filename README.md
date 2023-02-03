@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Portfolio da Nayara Watanuki" src="https://raw.githubusercontent.com/nayarawatanuki/html-css__portfolio-part2/main/img/readme/portfolio__cover.png"/>
+  <img alt="Portfolio da Nayara Watanuki" src="https://raw.githubusercontent.com/nayarawatanuki/html-css__portfolio-part2/main/img/readme/portfolio__cover.png#vitrinedev"/>
 </h1>
 
 ### Índice
